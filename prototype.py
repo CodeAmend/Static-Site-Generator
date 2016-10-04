@@ -14,6 +14,7 @@ settings.configure(
     INSTALLED_APPS=(
         'django.contrib.staticfiles',
         'sitebuilder',
+        'django_extensions',
     ),
     TEMPLATES=(
         {
